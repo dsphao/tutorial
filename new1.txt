@@ -1,2 +1,1 @@
-This is a new file by the graphics interface
-
+Now I totally change the file
